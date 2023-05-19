@@ -22,3 +22,5 @@ namas1.verte = 50000
 print(namas1.verte)
 
 namas1.verte = "labas"
+
+# Cia bus pakeitimas
